@@ -16,7 +16,15 @@ A high-tech Android calculator built with no limits — combining an AI camera m
 - **More Calculators:** Live **Currency Converter**, **World Time Zones**, and specialized unit converters — with one-tap home-screen pin shortcuts.
 - **Adaptive Themes & Dynamic Icon:** Auto, Light, and Dark modes with custom accent colors and a matching dynamic launcher icon.
 - **100% Free Forever:** No ads, no subscriptions, no paywalled features.
+## Screenshots
 
+| AI Camera Scanner | Complex Equation Solver | Visual Math Keypad |
+| :---: | :---: | :---: |
+| <img src="calctwix_1_scanner.png" width="240" alt="AI Camera Scanner" /> | <img src="calctwix_2_solver.png" width="240" alt="Equation Solver" /> | <img src="calctwix_3_keypad.png" width="240" alt="Visual Keypad" /> |
+
+| Simple Calculator | 57+ More Calculators | Settings & Themes |
+| :---: | :---: | :---: |
+| <img src="calctwix_4_simple.png" width="240" alt="Simple Calculator" /> | <img src="calctwix_5_more.png" width="240" alt="More Calculators" /> | <img src="calctwix_6_settings.png" width="240" alt="Settings and Themes" /> |
 ## How to Install
 1. Tap the **Download CalcTwix v1.0.0** button above (or visit the [Releases page](https://github.com/AltCrafthq/CalcTwix/releases/latest) if the filename differs).
 2. Open the downloaded `.apk` on your Android phone (Android 6.0+) and allow **Install unknown apps** if prompted.
